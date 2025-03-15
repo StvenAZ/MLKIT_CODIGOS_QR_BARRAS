@@ -1,7 +1,7 @@
 # Detector de Códigos QR y Barras con ML Kit
 
 ## Descripción  
-¡Una aplicación Android que utiliza **Google ML Kit** para detectar códigos QR y otros códigos de barras en imágenes seleccionadas desde la galería! Ideal para explorar visión por computadora o integrar funcionalidades de escaneo en tus proyectos móviles.
+¡Una aplicación Android que utiliza **Google ML Kit** para detectar códigos QR y otros códigos de barras en imágenes seleccionadas desde la galería!.
 
 ---
 
@@ -53,5 +53,4 @@
    - **Material Components:** Se utiliza para lograr una interfaz moderna y consistente.  
    - **Intents de Android:** Permiten la selección de imagen y la apertura de enlaces en el navegador.
 
----
- 
+
