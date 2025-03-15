@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MLKIT_CODIGOS_QR_BARRAS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores principales en hexadecimal -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#BB86FC</item>
+        <item name="colorSecondary">#03DAC6</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">#3700B3</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.MLKIT_CODIGOS_QR_BARRAS" parent="Base.Theme.MLKIT_CODIGOS_QR_BARRAS" />
+</resources>
